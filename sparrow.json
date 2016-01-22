@@ -1,0 +1,7 @@
+{
+    "version": "0.0.7",
+    "name": "outth-postgresql-cookbook",
+    "engine": "generic", 
+    "description" : "outthentic tests for postgresql cookook",
+    "url": "https://github.com/melezhik/outth-postgresql-cookbook.git"
+}
